@@ -1,7 +1,5 @@
 # HTML
 
-# HTML
-
 Hypertext Markup Language
 
 - 웹 페이지가 어떻게 구조화되어 있는지 브라우저로 하여금 알 수 있도록 하는 MarkUp 언어이다.

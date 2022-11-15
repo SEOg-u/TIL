@@ -1,6 +1,5 @@
 # HTML
-Hypertext Markup Language
-
+- Hypertext Markup Language
 - 웹 페이지가 어떻게 구조화되어 있는지 브라우저로 하여금 알 수 있도록 하는 MarkUp 언어이다.
 - elements로 구성되어 있으며, 각 콘텐츠의 여러 부분들을 감싸고 마크업 한다.
 

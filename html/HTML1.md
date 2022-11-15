@@ -1,5 +1,3 @@
-# 제목 없음
-
 # HTML
 
 Hypertext Markup Language
